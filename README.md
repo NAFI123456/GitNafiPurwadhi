@@ -38,8 +38,8 @@ Only needs python(3.13.5) for running.
 
 ## usage
 
-### 1.**Run Program**
-### 2. **CRUD Operation** (Choose a Prompt With Index Number)
+#### 1.**Run Program**
+#### 2. **CRUD Operation** (Choose a Prompt With Index Number)
 - Create: Add a new item record, for example; item name, item producer, etc.
 - Read: Search and retrieve customer information by name, ID, or other relevant criteria.
 - Update: Modify customer details, such as updating their address or contact details.
@@ -60,4 +60,9 @@ Data is stored using parallel lists:
 - `itemID`: Unique ID.
 - `itemSold`: Units sold.
 
+---
+
+## Contribution
+
+I accept contributions from all people, please email me at muhammadnafiqadziq@gmail.com.
 
