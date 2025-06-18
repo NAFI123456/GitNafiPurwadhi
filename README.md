@@ -14,8 +14,8 @@ This Python-based application simulates a basic inventory and transaction system
 - Improved data accuracy and consistency
 - Streamlined data management processes
 
-### **Target User**
-- Business owners.
+#### **Target User**
+Business owners.
 
 ---
 
