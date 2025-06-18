@@ -1,5 +1,6 @@
-**CAPSTONE 1, PURWADHIKA PROJECT MUHAMMAD NAFI ADZIQ**
+# CAPSTONE 1, PURWADHIKA PROJECT MUHAMMAD NAFI ADZIQ
+# Python Application for Business Data Analytics
 
-#SALES MANAGEMENT
+With this Python project, you can easily see the usage of Python in acumulating datas, esspecially with the CRUD(Create, read, update, delete) ptogram.
 
-# With this capstone project you can manage your sales easily with just a couple of inputs.
+#
